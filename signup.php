@@ -2,7 +2,7 @@
 
 <head><title>Restaurant</title>
 
-<link rel="stylesheet" href="css/style1.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="style1.css" type="text/css" media="screen" />
 
 <script type="application/javascript">
 
